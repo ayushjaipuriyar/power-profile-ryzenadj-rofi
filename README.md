@@ -75,5 +75,5 @@ Run the following commands to make it executbale on boot
 sudo systemctl enable ryzenadj.service
 ```
 
-
-[](https://raw.githubusercontent.com/ayushjaipuriyar/power-profile-ryzenadj-rofi/master/product.png)
+# How it looks 
+![](https://raw.githubusercontent.com/ayushjaipuriyar/power-profile-ryzenadj-rofi/master/product.png)
