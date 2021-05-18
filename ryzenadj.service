@@ -1,0 +1,9 @@
+[Unit]
+Description=Ryzenadj-5W
+
+[Service]
+ExecStart=/usr/local/sbin/ryzenadj5w.sh
+
+
+[Install]
+WantedBy=multi-user.target
