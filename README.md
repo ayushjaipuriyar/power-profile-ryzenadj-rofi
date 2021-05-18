@@ -39,7 +39,7 @@ XF86Lanuch4
 
 You will need to find how you can bind the power.sh script.
 
-5. lastly you need to add ryzebadj to the sudoers. Since ryzenadj requires sudo to run,this was the only way I could make it work without requiring the password as you can't input password in rofi.
+5. lastly you need to add ryzenadj to the sudoers. Since ryzenadj requires sudo to run,this was the only way I could make it work without requiring the password as you can't input password in rofi.
 ```
 sudo visudo
 ```

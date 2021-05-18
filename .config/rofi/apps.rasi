@@ -6,7 +6,7 @@ configuration {
 	sidebar-mode: 					false;
 }
 
-@import "~/.cache/wal/colors-rofi-dark.rasi"
+@import "./colors-rofi-dark.rasi"
 
 * {
     background-color:               @background;

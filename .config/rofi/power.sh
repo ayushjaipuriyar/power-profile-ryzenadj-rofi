@@ -1,7 +1,4 @@
 #!/usr/bin/env bash
-
-style="square"
-
 rofi_command="rofi -theme ./apps.rasi"
 
 current=$(sudo ryzenadj --info | grep apu-slow-limit | awk '{print $6/1}')     
