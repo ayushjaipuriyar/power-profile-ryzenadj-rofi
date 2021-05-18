@@ -1,8 +1,8 @@
 [Unit]
-Description=Ryzenadj-5W
+Description=Ryzenadj
 
 [Service]
-ExecStart=/usr/local/sbin/ryzenadj5w.sh
+ExecStart=/usr/local/sbin/ryzenadj.sh
 
 
 [Install]
